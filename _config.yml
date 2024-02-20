@@ -20,7 +20,7 @@ title                    : #"Dr. Muhammad Uzair"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Muhammad Uzair"
-description              : "Lecturer The Univesrity of Adelaide."
+description              : "Lecturer"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -106,8 +106,8 @@ analytics:
 author:
   name             : "Dr. Muhammad Uzair"
   avatar           : "/assets/MyPhotoSmall.jpg"
-  bio              : "Lecturer"
-  location         : "School of Computer and Mathematical Sciences, The University of Adelaide, Australia."
+  bio              : "Lecturer, School of Computer and Mathematical Sciences"
+  location         : "The University of Adelaide, Australia."
   email            :
   links:
     - label: "Email"
