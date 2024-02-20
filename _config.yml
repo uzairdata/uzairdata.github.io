@@ -106,8 +106,8 @@ analytics:
 author:
   name             : "Dr. Muhammad Uzair"
   avatar           : "/assets/MyPhotoSmall.jpg"
-  bio              : "Lecturer, Computer and Mathematical Sciences"
-  location         : "University of Adelaide, Australia."
+  bio              : "Lecturer <br> School of Computer and Mathematical Sciences"
+  location         : "The University of Adelaide <br> Australia."
   email            :
   links:
     - label: "Email"
